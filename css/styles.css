@@ -8,7 +8,7 @@ h1 {
 h2 {
   font-style: italic;
   text-align: center;
-  color: #ac81ce
+  color: #ac81ce;
   font-family: arial;
   font-size: 35px;
   line-height: 40px;
@@ -22,5 +22,5 @@ p {
 
 ul {
   font-size: 20px;
-  line-height: 25px
+  line-height: 25px;
 }
