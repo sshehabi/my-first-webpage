@@ -15,7 +15,7 @@ _{This is an html webpage created in the Epicodus Intro to Programming evening c
 
 ## Support and contact details
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+_{Please reach out to Serene with any questions, comments, or needed maintenence on this project.}_
 
 ## Technologies Used
 
